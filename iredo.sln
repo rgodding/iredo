@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iredo.Api", "iredo.Api\iredo.Api.csproj", "{0712FCAE-E128-4689-8E0A-B0B9D17C68E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iredo.Data", "iredo.Data\iredo.Data.csproj", "{A6E69145-4C51-4B86-87E5-68AD4CBB6188}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iredo.Test", "iredo.Test\iredo.Test.csproj", "{4C421CA8-7475-46E7-8716-B84CAA9FC522}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0712FCAE-E128-4689-8E0A-B0B9D17C68E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0712FCAE-E128-4689-8E0A-B0B9D17C68E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0712FCAE-E128-4689-8E0A-B0B9D17C68E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0712FCAE-E128-4689-8E0A-B0B9D17C68E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6E69145-4C51-4B86-87E5-68AD4CBB6188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6E69145-4C51-4B86-87E5-68AD4CBB6188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6E69145-4C51-4B86-87E5-68AD4CBB6188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6E69145-4C51-4B86-87E5-68AD4CBB6188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C421CA8-7475-46E7-8716-B84CAA9FC522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C421CA8-7475-46E7-8716-B84CAA9FC522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C421CA8-7475-46E7-8716-B84CAA9FC522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C421CA8-7475-46E7-8716-B84CAA9FC522}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

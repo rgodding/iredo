@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\iredo.Api.props" />
+</Project>
