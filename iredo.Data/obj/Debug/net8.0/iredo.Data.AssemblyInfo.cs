@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("iredo.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4d20ab6514b04be54f146f7cf6a6f3c1166d931")]
 [assembly: System.Reflection.AssemblyProductAttribute("iredo.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("iredo.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

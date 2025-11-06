@@ -1,0 +1,12 @@
+C:\Users\Rasha\RiderProjects\iredo\iredo.Data\bin\Debug\net8.0\iredo.Data.deps.json
+C:\Users\Rasha\RiderProjects\iredo\iredo.Data\bin\Debug\net8.0\iredo.Data.dll
+C:\Users\Rasha\RiderProjects\iredo\iredo.Data\bin\Debug\net8.0\iredo.Data.pdb
+C:\Users\Rasha\RiderProjects\iredo\iredo.Data\obj\Debug\net8.0\iredo.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rasha\RiderProjects\iredo\iredo.Data\obj\Debug\net8.0\iredo.Data.AssemblyInfoInputs.cache
+C:\Users\Rasha\RiderProjects\iredo\iredo.Data\obj\Debug\net8.0\iredo.Data.AssemblyInfo.cs
+C:\Users\Rasha\RiderProjects\iredo\iredo.Data\obj\Debug\net8.0\iredo.Data.csproj.CoreCompileInputs.cache
+C:\Users\Rasha\RiderProjects\iredo\iredo.Data\obj\Debug\net8.0\iredo.Data.sourcelink.json
+C:\Users\Rasha\RiderProjects\iredo\iredo.Data\obj\Debug\net8.0\iredo.Data.dll
+C:\Users\Rasha\RiderProjects\iredo\iredo.Data\obj\Debug\net8.0\refint\iredo.Data.dll
+C:\Users\Rasha\RiderProjects\iredo\iredo.Data\obj\Debug\net8.0\iredo.Data.pdb
+C:\Users\Rasha\RiderProjects\iredo\iredo.Data\obj\Debug\net8.0\ref\iredo.Data.dll
