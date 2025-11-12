@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("iredo.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2462cd4ede8bbc72e336c424714bb99518e4c097")]
 [assembly: System.Reflection.AssemblyProductAttribute("iredo.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("iredo.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
